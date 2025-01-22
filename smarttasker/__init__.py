@@ -1,0 +1,1 @@
+# Pusty plik, aby folder smarttasker był traktowany jako pakiet.
